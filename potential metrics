@@ -1,0 +1,11 @@
+Potential usefull metrics:
+
+volume of payments on mortgages
+volume of deposits
+volume of redemptions, amounts waiting for redemptions, avg waiting time to redeem
+apr on earn (already on defilama)
+
+Total pending payments if all mortgages complete paying their mortgage
+total money inflow if every mortgage is early repaid 
+amount of money repaid on mortgages
+amount of defaults on mortgages and sizes
