@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .DS_Store
 test_nft_size.py
+node_modules
+package-lock.json
+package.json
+dbug/

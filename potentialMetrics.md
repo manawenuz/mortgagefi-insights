@@ -2,10 +2,10 @@ Potential usefull metrics:
 
 1. [x] - volume of payments on mortgages (payDownContract?)
 2. [x] - volume of deposits
-3. [ ] - volume of redemptions, 
-4. [ ] - amounts waiting for redemptions, 
-5. [ ] - avg waiting time to redeem
-6. [ ] - apr on earn (already on defilama) (tell me how?)
+3. [-] - volume of redemptions (see redemption_stats.sql)
+4. [-] - amounts waiting for redemptions (see redemption_stats.sql)
+5. [-] - avg waiting time to redeem (estimated in redemption_stats.sql)
+6. [x] - apr on earn (already on defilama) (tell me how?)
 7. [x] - early repayments
 
 Total pending payments if all mortgages complete paying their mortgage
